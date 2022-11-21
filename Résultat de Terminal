@@ -1,0 +1,277 @@
+Last login: Fri Nov 18 13:28:16 on console
+raniael-fodil@MacBook-Pro-de-Rania ~ % 
+raniael-fodil@MacBook-Pro-de-Rania ~ % ls
+Applications	Documents	Library		Music		Public
+Desktop		Downloads	Movies		Pictures
+raniael-fodil@MacBook-Pro-de-Rania ~ % cd desktop
+raniael-fodil@MacBook-Pro-de-Rania desktop % nano bonjour.sh
+raniael-fodil@MacBook-Pro-de-Rania desktop % chmod +x bonjour.sh
+raniael-fodil@MacBook-Pro-de-Rania desktop % ./bonjour.sh
+Bonjour, quel est votre prénom
+
+bonjour,
+raniael-fodil@MacBook-Pro-de-Rania desktop % clear 
+
+
+
+
+
+
+
+
+
+
+
+raniael-fodil@MacBook-Pro-de-Rania desktop % ls
+bonjour.sh	covers
+raniael-fodil@MacBook-Pro-de-Rania desktop % cd cover 
+cd: no such file or directory: cover
+raniael-fodil@MacBook-Pro-de-Rania desktop % ls
+bonjour.sh	covers
+raniael-fodil@MacBook-Pro-de-Rania desktop % cd covers
+raniael-fodil@MacBook-Pro-de-Rania covers % ls
+dc_jetgrindradio_10.jpg
+dc_jetsetradio_eu_front.jpg
+dc_shenmue_eu.jpg
+dc_shenmueii_5.jpg
+gameboy.pokmonred.jpg
+gb_pokemonblue_eu.jpg
+gb_pokemongreen_3.jpg
+gb_pokemonyellow_au.jpg
+gbc_pokemongold.jpg
+gc_mariokartdoubledash.jpg
+gc_supermariosunshine.jpg
+playstation_4.assassinscreedodyssey.jpg
+playstation_4.unchartedthelostlegacy.jpg
+playstation_4.watchdogs2.jpg
+playstation_5.assassinscreedvalhalla.jpg
+playstation_5.farcry6.jpg
+playstation_5.residentevilvillage_.jpg
+ps4_fifa14.jpg
+x360_callfoduty3.jpg
+x360_callofduty2.jpg
+x360_callofduty4.jpg
+x360_callofdutyblackopsii.jpg
+xbox_360.fableiii.jpg
+xbox_deadoralive3.jpg
+xbox_deadtorights.jpg
+xbox_defjamfightforny.jpg
+xbox_halo2.jpg
+xbox_halo_2.jpg
+xbox_jetsetradiofuture_2.jpg
+xbox_needforspeedunderground2.jpg
+raniael-fodil@MacBook-Pro-de-Rania covers % clear 
+
+raniael-fodil@MacBook-Pro-de-Rania covers % mkdir constructeurs
+raniael-fodil@MacBook-Pro-de-Rania covers % cd constructeurs
+raniael-fodil@MacBook-Pro-de-Rania constructeurs % mkdir sony nintendo microsoft sega
+raniael-fodil@MacBook-Pro-de-Rania constructeurs % cd sony 
+raniael-fodil@MacBook-Pro-de-Rania sony % mkdir consoles portables
+raniael-fodil@MacBook-Pro-de-Rania sony % cd ..
+raniael-fodil@MacBook-Pro-de-Rania constructeurs % cd sony
+raniael-fodil@MacBook-Pro-de-Rania sony % cd consoles
+raniael-fodil@MacBook-Pro-de-Rania consoles % mkdir ps4 ps5
+raniael-fodil@MacBook-Pro-de-Rania consoles % cd ..
+raniael-fodil@MacBook-Pro-de-Rania sony % cd ..
+raniael-fodil@MacBook-Pro-de-Rania constructeurs % cd ..
+raniael-fodil@MacBook-Pro-de-Rania covers % ls
+constructeurs
+dc_jetgrindradio_10.jpg
+dc_jetsetradio_eu_front.jpg
+dc_shenmue_eu.jpg
+dc_shenmueii_5.jpg
+gameboy.pokmonred.jpg
+gb_pokemonblue_eu.jpg
+gb_pokemongreen_3.jpg
+gb_pokemonyellow_au.jpg
+gbc_pokemongold.jpg
+gc_mariokartdoubledash.jpg
+gc_supermariosunshine.jpg
+playstation_4.assassinscreedodyssey.jpg
+playstation_4.unchartedthelostlegacy.jpg
+playstation_4.watchdogs2.jpg
+playstation_5.assassinscreedvalhalla.jpg
+playstation_5.farcry6.jpg
+playstation_5.residentevilvillage_.jpg
+ps4_fifa14.jpg
+x360_callfoduty3.jpg
+x360_callofduty2.jpg
+x360_callofduty4.jpg
+x360_callofdutyblackopsii.jpg
+xbox_360.fableiii.jpg
+xbox_deadoralive3.jpg
+xbox_deadtorights.jpg
+xbox_defjamfightforny.jpg
+xbox_halo2.jpg
+xbox_halo_2.jpg
+xbox_jetsetradiofuture_2.jpg
+xbox_needforspeedunderground2.jpg
+raniael-fodil@MacBook-Pro-de-Rania covers % mv playstation_4.assassinscreedodyssey.jpg ./constructeurs/sony/consoles/ps4
+raniael-fodil@MacBook-Pro-de-Rania covers % 
+raniael-fodil@MacBook-Pro-de-Rania covers % ls
+constructeurs
+dc_jetgrindradio_10.jpg
+dc_jetsetradio_eu_front.jpg
+dc_shenmue_eu.jpg
+dc_shenmueii_5.jpg
+gameboy.pokmonred.jpg
+gb_pokemonblue_eu.jpg
+gb_pokemongreen_3.jpg
+gb_pokemonyellow_au.jpg
+gbc_pokemongold.jpg
+gc_mariokartdoubledash.jpg
+gc_supermariosunshine.jpg
+playstation_4.unchartedthelostlegacy.jpg
+playstation_4.watchdogs2.jpg
+playstation_5.assassinscreedvalhalla.jpg
+playstation_5.farcry6.jpg
+playstation_5.residentevilvillage_.jpg
+ps4_fifa14.jpg
+x360_callfoduty3.jpg
+x360_callofduty2.jpg
+x360_callofduty4.jpg
+x360_callofdutyblackopsii.jpg
+xbox_360.fableiii.jpg
+xbox_deadoralive3.jpg
+xbox_deadtorights.jpg
+xbox_defjamfightforny.jpg
+xbox_halo2.jpg
+xbox_halo_2.jpg
+xbox_jetsetradiofuture_2.jpg
+xbox_needforspeedunderground2.jpg
+raniael-fodil@MacBook-Pro-de-Rania covers % ls covers
+ls: covers: No such file or directory
+raniael-fodil@MacBook-Pro-de-Rania covers % cd cover
+cd: no such file or directory: cover
+raniael-fodil@MacBook-Pro-de-Rania covers % ls
+constructeurs
+dc_jetgrindradio_10.jpg
+dc_jetsetradio_eu_front.jpg
+dc_shenmue_eu.jpg
+dc_shenmueii_5.jpg
+gameboy.pokmonred.jpg
+gb_pokemonblue_eu.jpg
+gb_pokemongreen_3.jpg
+gb_pokemonyellow_au.jpg
+gbc_pokemongold.jpg
+gc_mariokartdoubledash.jpg
+gc_supermariosunshine.jpg
+playstation_4.unchartedthelostlegacy.jpg
+playstation_4.watchdogs2.jpg
+playstation_5.assassinscreedvalhalla.jpg
+playstation_5.farcry6.jpg
+playstation_5.residentevilvillage_.jpg
+ps4_fifa14.jpg
+x360_callfoduty3.jpg
+x360_callofduty2.jpg
+x360_callofduty4.jpg
+x360_callofdutyblackopsii.jpg
+xbox_360.fableiii.jpg
+xbox_deadoralive3.jpg
+xbox_deadtorights.jpg
+xbox_defjamfightforny.jpg
+xbox_halo2.jpg
+xbox_halo_2.jpg
+xbox_jetsetradiofuture_2.jpg
+xbox_needforspeedunderground2.jpg
+raniael-fodil@MacBook-Pro-de-Rania covers % cd constructeurs 
+raniael-fodil@MacBook-Pro-de-Rania constructeurs % cd.. 
+zsh: command not found: cd..
+raniael-fodil@MacBook-Pro-de-Rania covers % mv playstation_4.unchartedthelostlegacy.jpg playstation_4.watchdogs2.jpg ./constructeurs/sony/consoles/ps4
+raniael-fodil@MacBook-Pro-de-Rania covers % mv playstation_5.assassinscreedvalhalla.jpg playstation_5.farcry6.jpg playstation_5.residentevilvillage_.jpg ./constructeurs/sony/consoles/ps5
+raniael-fodil@MacBook-Pro-de-Rania covers % ls
+constructeurs				gbc_pokemongold.jpg			xbox_deadoralive3.jpg
+dc_jetgrindradio_10.jpg			gc_mariokartdoubledash.jpg		xbox_deadtorights.jpg
+dc_jetsetradio_eu_front.jpg		gc_supermariosunshine.jpg		xbox_defjamfightforny.jpg
+dc_shenmue_eu.jpg			ps4_fifa14.jpg				xbox_halo2.jpg
+dc_shenmueii_5.jpg			x360_callfoduty3.jpg			xbox_halo_2.jpg
+gameboy.pokmonred.jpg			x360_callofduty2.jpg			xbox_jetsetradiofuture_2.jpg
+gb_pokemonblue_eu.jpg			x360_callofduty4.jpg			xbox_needforspeedunderground2.jpg
+gb_pokemongreen_3.jpg			x360_callofdutyblackopsii.jpg
+gb_pokemonyellow_au.jpg			xbox_360.fableiii.jpg
+raniael-fodil@MacBook-Pro-de-Rania covers % cd constructeurs nintendo
+cd: string not in pwd: constructeurs
+raniael-fodil@MacBook-Pro-de-Rania covers % cd constructeurs
+raniael-fodil@MacBook-Pro-de-Rania constructeurs % cd nintendo
+raniael-fodil@MacBook-Pro-de-Rania nintendo % mkdir consoles portables
+raniael-fodil@MacBook-Pro-de-Rania nintendo % cd consoles
+raniael-fodil@MacBook-Pro-de-Rania consoles % mkdir gamecube
+raniael-fodil@MacBook-Pro-de-Rania consoles % cd ..
+raniael-fodil@MacBook-Pro-de-Rania nintendo % cd portables
+raniael-fodil@MacBook-Pro-de-Rania portables % mkdir gameboy
+raniael-fodil@MacBook-Pro-de-Rania portables % cd ..
+raniael-fodil@MacBook-Pro-de-Rania nintendo % cd ..
+raniael-fodil@MacBook-Pro-de-Rania constructeurs % cd ..
+raniael-fodil@MacBook-Pro-de-Rania covers % mv 
+usage: mv [-f | -i | -n] [-hv] source target
+       mv [-f | -i | -n] [-v] source ... directory
+raniael-fodil@MacBook-Pro-de-Rania covers % mv gameboy.pokmonred.jpg gb_pokemonblue_eu.jpg gb_pokemongreen_3.jpg gb_pokemonyellow_au.jpg ./constructeurs/nintendo/portables/gameboy
+raniael-fodil@MacBook-Pro-de-Rania covers % ls
+constructeurs				gc_supermariosunshine.jpg		xbox_deadoralive3.jpg
+dc_jetgrindradio_10.jpg			ps4_fifa14.jpg				xbox_deadtorights.jpg
+dc_jetsetradio_eu_front.jpg		x360_callfoduty3.jpg			xbox_defjamfightforny.jpg
+dc_shenmue_eu.jpg			x360_callofduty2.jpg			xbox_halo2.jpg
+dc_shenmueii_5.jpg			x360_callofduty4.jpg			xbox_halo_2.jpg
+gbc_pokemongold.jpg			x360_callofdutyblackopsii.jpg		xbox_jetsetradiofuture_2.jpg
+gc_mariokartdoubledash.jpg		xbox_360.fableiii.jpg			xbox_needforspeedunderground2.jpg
+raniael-fodil@MacBook-Pro-de-Rania covers % mv gc_supermariosunshine.jpg gc_mariokartdoubledash.jpg gbc_pokemongold.jpg ./constructeurs/nintendo/portables/gamecube
+mv: ./constructeurs/nintendo/portables/gamecube is not a directory
+raniael-fodil@MacBook-Pro-de-Rania covers % mv gc_supermariosunshine.jpg gc_mariokartdoubledash.jpg gbc_pokemongold.jpg ./constructeurs/nintendo/portables/consoles/gamecube
+mv: ./constructeurs/nintendo/portables/consoles/gamecube is not a directory
+raniael-fodil@MacBook-Pro-de-Rania covers % mv gc_supermariosunshine.jpg gc_mariokartdoubledash.jpg gbc_pokemongold.jpg ./constructeurs/nintendo/consoles/gamecube          
+raniael-fodil@MacBook-Pro-de-Rania covers % ls
+constructeurs				x360_callfoduty3.jpg			xbox_deadtorights.jpg
+dc_jetgrindradio_10.jpg			x360_callofduty2.jpg			xbox_defjamfightforny.jpg
+dc_jetsetradio_eu_front.jpg		x360_callofduty4.jpg			xbox_halo2.jpg
+dc_shenmue_eu.jpg			x360_callofdutyblackopsii.jpg		xbox_halo_2.jpg
+dc_shenmueii_5.jpg			xbox_360.fableiii.jpg			xbox_jetsetradiofuture_2.jpg
+ps4_fifa14.jpg				xbox_deadoralive3.jpg			xbox_needforspeedunderground2.jpg
+raniael-fodil@MacBook-Pro-de-Rania covers % cd constructeurs
+raniael-fodil@MacBook-Pro-de-Rania constructeurs % cd microsoft
+raniael-fodil@MacBook-Pro-de-Rania microsoft % mkdir consoles          
+raniael-fodil@MacBook-Pro-de-Rania microsoft % cd consoles
+raniael-fodil@MacBook-Pro-de-Rania consoles % mkdir xbox xbox360
+raniael-fodil@MacBook-Pro-de-Rania consoles % cd ..
+raniael-fodil@MacBook-Pro-de-Rania microsoft % cd ..
+raniael-fodil@MacBook-Pro-de-Rania constructeurs % cd ..
+raniael-fodil@MacBook-Pro-de-Rania covers % ls
+constructeurs				x360_callfoduty3.jpg			xbox_deadtorights.jpg
+dc_jetgrindradio_10.jpg			x360_callofduty2.jpg			xbox_defjamfightforny.jpg
+dc_jetsetradio_eu_front.jpg		x360_callofduty4.jpg			xbox_halo2.jpg
+dc_shenmue_eu.jpg			x360_callofdutyblackopsii.jpg		xbox_halo_2.jpg
+dc_shenmueii_5.jpg			xbox_360.fableiii.jpg			xbox_jetsetradiofuture_2.jpg
+ps4_fifa14.jpg				xbox_deadoralive3.jpg			xbox_needforspeedunderground2.jpg
+raniael-fodil@MacBook-Pro-de-Rania covers % x360_callfoduty3.jpg x360_callofduty2.jpg x360_callofduty4.jpg x360_callofdutyblackopsii.jpg xbox_360.fableiii.jpg ./constructeurs/microsoft/consoles/xbox360
+zsh: command not found: x360_callfoduty3.jpg
+raniael-fodil@MacBook-Pro-de-Rania covers % mv x360_callfoduty3.jpg x360_callofduty2.jpg x360_callofduty4.jpg x360_callofdutyblackopsii.jpg xbox_360.fableiii.jpg ./constructeurs/microsoft/consoles/xbox360
+raniael-fodil@MacBook-Pro-de-Rania covers % ls
+constructeurs				ps4_fifa14.jpg				xbox_halo_2.jpg
+dc_jetgrindradio_10.jpg			xbox_deadoralive3.jpg			xbox_jetsetradiofuture_2.jpg
+dc_jetsetradio_eu_front.jpg		xbox_deadtorights.jpg			xbox_needforspeedunderground2.jpg
+dc_shenmue_eu.jpg			xbox_defjamfightforny.jpg
+dc_shenmueii_5.jpg			xbox_halo2.jpg
+raniael-fodil@MacBook-Pro-de-Rania covers % mv xbox_deadoralive3.jpg xbox_deadtorights.jpg xbox_defjamfightforny.jpg xbox_halo2.jpg xbox_halo_2.jpg xbox_jetsetradiofuture_2.jpg xbox_needforspeedunderground2.jpg ./constructeurs/microsoft/consoles/xbox
+raniael-fodil@MacBook-Pro-de-Rania covers % ls
+constructeurs			dc_jetsetradio_eu_front.jpg	dc_shenmueii_5.jpg
+dc_jetgrindradio_10.jpg		dc_shenmue_eu.jpg		ps4_fifa14.jpg
+raniael-fodil@MacBook-Pro-de-Rania covers % mv ps4_fifa14.jpg ./constructeurs/sony/consoles/ps4
+raniael-fodil@MacBook-Pro-de-Rania covers % ls
+constructeurs			dc_jetsetradio_eu_front.jpg	dc_shenmueii_5.jpg
+dc_jetgrindradio_10.jpg		dc_shenmue_eu.jpg
+raniael-fodil@MacBook-Pro-de-Rania covers % cd constructeurs
+raniael-fodil@MacBook-Pro-de-Rania constructeurs % ls
+microsoft	nintendo	sega		sony
+raniael-fodil@MacBook-Pro-de-Rania constructeurs % cd sega
+raniael-fodil@MacBook-Pro-de-Rania sega % mkdir consoles
+raniael-fodil@MacBook-Pro-de-Rania sega % cd consoles
+raniael-fodil@MacBook-Pro-de-Rania consoles % mkdir dreamcast
+raniael-fodil@MacBook-Pro-de-Rania consoles % cd .. 
+raniael-fodil@MacBook-Pro-de-Rania sega % cd ..
+raniael-fodil@MacBook-Pro-de-Rania constructeurs % cd ..
+raniael-fodil@MacBook-Pro-de-Rania covers % ls
+constructeurs			dc_jetsetradio_eu_front.jpg	dc_shenmueii_5.jpg
+dc_jetgrindradio_10.jpg		dc_shenmue_eu.jpg
+raniael-fodil@MacBook-Pro-de-Rania covers % mv dc_shenmueii_5.jpg dc_shenmue_eu.jpg dc_jetsetradio_eu_front.jpg dc_jetgrindradio_10.jpg ./constructeurs/sega/consoles/dreamcast
+raniael-fodil@MacBook-Pro-de-Rania covers % ls
+constructeurs
+raniael-fodil@MacBook-Pro-de-Rania covers % 
