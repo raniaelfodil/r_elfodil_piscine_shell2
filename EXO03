@@ -1,0 +1,2 @@
+l'EXO03 à été fait sur le terminal d'emma car je ne suis pas arrivée à installer git : 
+git log  --pretty=format:"%H" -5
